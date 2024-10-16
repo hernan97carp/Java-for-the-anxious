@@ -4,7 +4,9 @@
 
 **Author**: Pablo Hernán Esquivel  
 **Status**: Beta Version  
-
+--------------------------------------------------------------------------
+[BOOK LINK](https://docs.google.com/document/d/1Z12YYu8DLtM9TIKZF7jlQmuSxjoVb6Js7_FkSb9ygIc/edit?usp=sharing)
+--------------------------------------------------------------------------
 Explore the project and contribute to its development!
 
 [GitHub Repository](https://github.com/hernan97carp/Java-for-the-anxious.git)
